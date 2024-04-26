@@ -8,7 +8,7 @@ public class DemoController {
 	
 	@GetMapping("/getData")
 	public String getData() {
-		return "welcome jenkins project deployments";
+		return "welcome jenkins project deployments success now";
 	}
 
 }
